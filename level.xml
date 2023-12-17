@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<level xmlns="data">
+    <level>
+        <number>3</number>
+        <left> 01</left>
+        <right> 2</right>
+        <boat> 3</boat>
+        <pos>false</pos>
+        <sails>3</sails>
+    </level>
+</level>
